@@ -1,0 +1,23 @@
+id,topic,question,answer
+H01,The CPU,What does the ALU do?,Carries out arithmetic and logical operations
+H02,The CPU,What is held in the program counter (PC)?,The address of the next instruction
+H03,The CPU,Name the three stages of the fetch-decode-execute cycle.,"Fetch, decode, execute"
+H04,The CPU,What does the MAR hold?,The address of data or an instruction to be fetched or stored
+H05,The CPU,Give one effect of increasing the clock speed.,More instructions processed per second
+H06,The CPU,What is cache?,"Small, fast memory inside or near the CPU for frequently used data"
+M01,Memory,Why is RAM described as volatile?,It loses its contents when the power is off
+M02,Memory,Give one use of ROM.,Storing the BIOS / boot-up instructions
+M03,Memory,What is virtual memory?,Part of secondary storage used as extra RAM
+M04,Memory,State one difference between RAM and ROM.,RAM is volatile and read-write; ROM is non-volatile and read-only
+S01,Storage,How does an SSD store data?,Using NAND flash memory with no moving parts
+S02,Storage,Give one advantage of optical storage.,Cheap and portable
+S03,Storage,Why is magnetic storage still used in servers?,High capacity at low cost per GB
+S04,Storage,What is cloud storage?,Storage on remote servers accessed over the internet
+S05,Storage,Give one drawback of cloud storage.,Needs an internet connection
+E01,Embedded systems,What is an embedded system?,A computer system built into a larger device to do one task
+E02,Embedded systems,Give two examples of embedded systems.,"Washing machine, microwave"
+E03,Embedded systems,Why are embedded systems cheap to make?,Simple hardware built for one task
+I01,Input and output,Name an input device used for scanning barcodes.,Barcode scanner
+I02,Input and output,What is a sensor?,A device that measures a physical quantity
+I03,Input and output,Give one use of an actuator.,Opening a valve / moving a motor
+I04,Input and output,How does a resistive touchscreen detect a touch?,"Two layers are pressed together, completing a circuit"
