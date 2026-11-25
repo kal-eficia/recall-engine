@@ -7,7 +7,7 @@ name = "recall-engine"
 version = "1.0.0"
 description = "Spaced-retrieval lesson starters and six-week progress reviews for recall-first teaching. Works from a CSV question bank and attempts log."
 readme = "README.md"
-requires-python = ">=3.9"
+requires-python = ">=3.10"
 license = { text = "MIT" }
 authors = [{ name = "Kalid Nur" }]
 keywords = ["education", "spaced-repetition", "retrieval-practice", "assessment", "teachers", "edtech"]
